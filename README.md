@@ -8,33 +8,38 @@ I'm learning Java step by step and regularly adding new programs as I explore di
 
 ## 📚 Programs Included
 
-| No. | Program Name                      | Concepts Covered                    |
-| :-: | --------------------------------- | ----------------------------------- |
-|  1  | Hello World                       | Basic Output                        |
-|  2  | Student Details                   | Variables and Data Types            |
-|  3  | Add Two Numbers                   | Arithmetic Operators                |
-|  4  | Even or Odd                       | If-Else Conditions                  |
-|  5  | Positive, Negative, or Zero       | Conditional Statements              |
-|  6  | Largest of Two Numbers            | Comparison Operators                |
-|  7  | Vowel or Consonant                | Characters and Logical Operators    |
-|  8  | Print Numbers from 1 to 10        | For Loop                            |
-|  9  | Factorial of a Number             | Loops and Multiplication            |
-|  10 | Check Prime Number                | Loops and Conditions                |
-|  11 | Multiplication Table              | For Loop                            |
-|  12 | Largest of Three Numbers          | Conditional Statements              |
-|  13 | Swap Two Numbers                  | Variables and Assignment            |
-|  14 | Reverse a Number                  | While Loop and Modulus Operator     |
-|  15 | Check Palindrome Number           | Loops and Conditions                |
-|  16 | Sum of Array Elements             | Arrays and For Loops                |
-|  17 | Largest Element in an Array       | Arrays and Conditional Statements   |
-|  18 | Reverse a String                  | Strings and Loops                   |
-|  19 | Check Palindrome String           | Strings and Conditions              |
-|  20 | Square of a Number Using a Method | Methods and Return Values           |
-|  21 | Linear Search in an Array         | Arrays and Searching                |
-|  22 | Bubble Sort                       | Arrays, Nested Loops, and Swapping  |
-|  23 | Count Vowels in a String          | Strings and Character Processing    |
-|  24 | Sum of Digits of a Number         | While Loop and Arithmetic Operators |
-|  25 | Fibonacci Series                  | Loops and Number Sequences          |
+| No. | Program Name                       | Concepts Covered                    |
+| :-: | ---------------------------------- | ----------------------------------- |
+|  1  | Hello World                        | Basic Output                        |
+|  2  | Student Details                    | Variables and Data Types            |
+|  3  | Add Two Numbers                    | Arithmetic Operators                |
+|  4  | Even or Odd                        | If-Else Conditions                  |
+|  5  | Positive, Negative, or Zero        | Conditional Statements              |
+|  6  | Largest of Two Numbers             | Comparison Operators                |
+|  7  | Vowel or Consonant                 | Characters and Logical Operators    |
+|  8  | Print Numbers from 1 to 10         | For Loop                            |
+|  9  | Factorial of a Number              | Loops and Multiplication            |
+|  10 | Check Prime Number                 | Loops and Conditions                |
+|  11 | Multiplication Table               | For Loop                            |
+|  12 | Largest of Three Numbers           | Conditional Statements              |
+|  13 | Swap Two Numbers                   | Variables and Assignment            |
+|  14 | Reverse a Number                   | While Loop and Modulus Operator     |
+|  15 | Check Palindrome Number            | Loops and Conditions                |
+|  16 | Sum of Array Elements              | Arrays and For Loops                |
+|  17 | Largest Element in an Array        | Arrays and Conditional Statements   |
+|  18 | Reverse a String                   | Strings and Loops                   |
+|  19 | Check Palindrome String            | Strings and Conditions              |
+|  20 | Square of a Number Using a Method  | Methods and Return Values           |
+|  21 | Linear Search in an Array          | Arrays and Searching                |
+|  22 | Bubble Sort                        | Arrays and Sorting                  |
+|  23 | Count Vowels in a String           | Strings and Character Processing    |
+|  24 | Sum of Digits of a Number          | While Loop and Arithmetic Operators |
+|  25 | Fibonacci Series                   | Loops and Number Sequences          |
+|  26 | Smallest Element in an Array       | Arrays and Conditional Statements   |
+|  27 | Second Largest Element in an Array | Arrays and Loops                    |
+|  28 | Count Words in a String            | String Methods                      |
+|  29 | Check Anagram Strings              | Strings and Character Sorting       |
+|  30 | Simple Calculator Using Switch     | Switch Statement and Operators      |
 
 ## 🛠️ Technologies Used
 
@@ -69,10 +74,10 @@ cd Java-basics
 
 ### 3. Compile a Program
 
-For example, to compile Program 21:
+For example, to compile Program 26:
 
 ```bash
-javac j21.java
+javac j26.java
 ```
 
 ### 4. Run the Program
@@ -97,18 +102,20 @@ Through these programs, I am practising:
 * String manipulation
 * Methods and return values
 * Number manipulation and mathematical problems
+* Switch statements
 * Problem-solving and logical thinking
 
 ## 📈 Future Learning Goals
 
 I plan to explore more Java concepts, including:
 
-* Multidimensional arrays
-* Methods and recursion
+* Multidimensional Arrays
+* Methods and Recursion
 * Object-Oriented Programming (OOP)
 * Classes and Objects
 * Constructors
 * Inheritance and Polymorphism
+* Encapsulation and Abstraction
 * Exception Handling
 * Collections Framework
 * Data Structures and Algorithms (DSA)
