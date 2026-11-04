@@ -2,7 +2,7 @@
 
 Welcome to my Java Basics repository! 🚀
 
-This repository contains beginner-friendly Java programs created to practise programming fundamentals, improve logical thinking, and strengthen problem-solving skills.
+This repository contains beginner-friendly Java programs created to practice programming fundamentals, improve logical thinking, and strengthen problem-solving skills.
 
 I'm learning Java step by step and regularly adding new programs as I explore different concepts.
 
@@ -40,6 +40,11 @@ I'm learning Java step by step and regularly adding new programs as I explore di
 |  28 | Count Words in a String            | String Methods                      |
 |  29 | Check Anagram Strings              | Strings and Character Sorting       |
 |  30 | Simple Calculator Using Switch     | Switch Statement and Operators      |
+|  31 | Create a Class and Object          | Classes and Objects                 |
+|  32 | Constructor in Java                | Constructors and Initialization     |
+|  33 | Method Overloading                 | Compile-time Polymorphism           |
+|  34 | Inheritance in Java                | Inheritance and Code Reusability    |
+|  35 | Method Overriding                  | Runtime Polymorphism                |
 
 ## 🛠️ Technologies Used
 
@@ -49,8 +54,6 @@ I'm learning Java step by step and regularly adding new programs as I explore di
 * **Repository Hosting:** GitHub
 
 ## 💻 Requirements
-
-To run these programs, you need:
 
 * Java Development Kit (JDK)
 * Visual Studio Code (optional)
@@ -64,8 +67,6 @@ To run these programs, you need:
 git clone https://github.com/YOUR_USERNAME/Java-basics.git
 ```
 
-Replace `YOUR_USERNAME` with your GitHub username.
-
 ### 2. Navigate to the Project Folder
 
 ```bash
@@ -74,10 +75,10 @@ cd Java-basics
 
 ### 3. Compile a Program
 
-For example, to compile Program 26:
+For example:
 
 ```bash
-javac j26.java
+javac j31.java
 ```
 
 ### 4. Run the Program
@@ -86,38 +87,36 @@ javac j26.java
 java Main
 ```
 
-**Note:** Each program uses the class name `Main`. Compile and run one program at a time because all programs use the same class name.
+**Note:** Each program uses the class name `Main`. Compile and run one program at a time to avoid class-name conflicts.
 
 ## 🎯 Learning Objectives
 
 Through these programs, I am practising:
 
-* Java syntax and program structure
+* Java syntax and fundamentals
 * Variables and data types
-* Arithmetic and comparison operators
-* Conditional statements and logical operators
-* For loops and while loops
-* Arrays and array traversal
+* Conditional statements and loops
+* Arrays and String manipulation
 * Searching and sorting algorithms
-* String manipulation
-* Methods and return values
-* Number manipulation and mathematical problems
-* Switch statements
+* Methods and constructors
+* Classes and Objects
+* Inheritance
+* Method Overloading and Overriding
+* Compile-time and Runtime Polymorphism
 * Problem-solving and logical thinking
 
 ## 📈 Future Learning Goals
 
 I plan to explore more Java concepts, including:
 
-* Multidimensional Arrays
-* Methods and Recursion
-* Object-Oriented Programming (OOP)
-* Classes and Objects
-* Constructors
-* Inheritance and Polymorphism
 * Encapsulation and Abstraction
+* Interfaces
+* Abstract Classes
+* Access Modifiers
+* Static and Final Keywords
 * Exception Handling
 * Collections Framework
+* Multithreading
 * Data Structures and Algorithms (DSA)
 
 ## 👨‍💻 About This Repository
