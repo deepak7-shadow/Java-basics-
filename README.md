@@ -8,56 +8,61 @@ I'm learning Java step by step and regularly adding new programs as I explore di
 
 ## 📚 Programs Included
 
-| No. | Program Name                       | Concepts Covered                    |
-| :-: | ---------------------------------- | ----------------------------------- |
-|  1  | Hello World                        | Basic Output                        |
-|  2  | Student Details                    | Variables and Data Types            |
-|  3  | Add Two Numbers                    | Arithmetic Operators                |
-|  4  | Even or Odd                        | If-Else Conditions                  |
-|  5  | Positive, Negative, or Zero        | Conditional Statements              |
-|  6  | Largest of Two Numbers             | Comparison Operators                |
-|  7  | Vowel or Consonant                 | Characters and Logical Operators    |
-|  8  | Print Numbers from 1 to 10         | For Loop                            |
-|  9  | Factorial of a Number              | Loops and Multiplication            |
-|  10 | Check Prime Number                 | Loops and Conditions                |
-|  11 | Multiplication Table               | For Loop                            |
-|  12 | Largest of Three Numbers           | Conditional Statements              |
-|  13 | Swap Two Numbers                   | Variables and Assignment            |
-|  14 | Reverse a Number                   | While Loop and Modulus Operator     |
-|  15 | Check Palindrome Number            | Loops and Conditions                |
-|  16 | Sum of Array Elements              | Arrays and For Loops                |
-|  17 | Largest Element in an Array        | Arrays and Conditional Statements   |
-|  18 | Reverse a String                   | Strings and Loops                   |
-|  19 | Check Palindrome String            | Strings and Conditions              |
-|  20 | Square of a Number Using a Method  | Methods and Return Values           |
-|  21 | Linear Search in an Array          | Arrays and Searching                |
-|  22 | Bubble Sort                        | Arrays and Sorting                  |
-|  23 | Count Vowels in a String           | Strings and Character Processing    |
-|  24 | Sum of Digits of a Number          | While Loop and Arithmetic Operators |
-|  25 | Fibonacci Series                   | Loops and Number Sequences          |
-|  26 | Smallest Element in an Array       | Arrays and Conditional Statements   |
-|  27 | Second Largest Element in an Array | Arrays and Loops                    |
-|  28 | Count Words in a String            | String Methods                      |
-|  29 | Check Anagram Strings              | Strings and Character Sorting       |
-|  30 | Simple Calculator Using Switch     | Switch Statement and Operators      |
-|  31 | Create a Class and Object          | Classes and Objects                 |
-|  32 | Constructor in Java                | Constructors and Initialization     |
-|  33 | Method Overloading                 | Compile-time Polymorphism           |
-|  34 | Inheritance in Java                | Inheritance and Code Reusability    |
-|  35 | Method Overriding                  | Runtime Polymorphism                |
+| No. | Program Name | Concepts Covered |
+| :-: | --- | --- |
+| 1 | Hello World | Basic Output |
+| 2 | Student Details | Variables and Data Types |
+| 3 | Add Two Numbers | Arithmetic Operators |
+| 4 | Even or Odd | If-Else Conditions |
+| 5 | Positive, Negative, or Zero | Conditional Statements |
+| 6 | Largest of Two Numbers | Comparison Operators |
+| 7 | Vowel or Consonant | Characters and Logical Operators |
+| 8 | Print Numbers from 1 to 10 | For Loop |
+| 9 | Factorial of a Number | Loops and Multiplication |
+| 10 | Check Prime Number | Loops and Conditions |
+| 11 | Multiplication Table | For Loop |
+| 12 | Largest of Three Numbers | Conditional Statements |
+| 13 | Swap Two Numbers | Variables and Assignment |
+| 14 | Reverse a Number | While Loop and Modulus Operator |
+| 15 | Check Palindrome Number | Loops and Conditions |
+| 16 | Sum of Array Elements | Arrays and For Loops |
+| 17 | Largest Element in an Array | Arrays and Conditional Statements |
+| 18 | Reverse a String | Strings and Loops |
+| 19 | Check Palindrome String | Strings and Conditions |
+| 20 | Square of a Number Using a Method | Methods and Return Values |
+| 21 | Linear Search in an Array | Arrays and Searching |
+| 22 | Bubble Sort | Arrays and Sorting |
+| 23 | Count Vowels in a String | Strings and Character Processing |
+| 24 | Sum of Digits of a Number | While Loop and Arithmetic Operators |
+| 25 | Fibonacci Series | Loops and Number Sequences |
+| 26 | Smallest Element in an Array | Arrays and Conditional Statements |
+| 27 | Second Largest Element in an Array | Arrays and Loops |
+| 28 | Count Words in a String | String Methods |
+| 29 | Check Anagram Strings | Strings and Character Sorting |
+| 30 | Simple Calculator Using Switch | Switch Statement and Operators |
+| 31 | Create a Class and Object | Classes and Objects |
+| 32 | Constructor in Java | Constructors and Initialization |
+| 33 | Method Overloading | Compile-time Polymorphism |
+| 34 | Inheritance in Java | Inheritance and Code Reusability |
+| 35 | Method Overriding | Runtime Polymorphism |
+| 36 | Encapsulation in Java | Data Hiding and Access Modifiers |
+| 37 | Abstraction Using Abstract Class | Abstract Classes and Methods |
+| 38 | Interface Implementation | Interfaces and Abstraction |
+| 39 | Constructor Overloading | Multiple Constructors |
+| 40 | Static Variables and Methods | Static Keyword |
 
 ## 🛠️ Technologies Used
 
-* **Programming Language:** Java
-* **Code Editor:** Visual Studio Code
-* **Version Control:** Git
-* **Repository Hosting:** GitHub
+- **Programming Language:** Java
+- **Code Editor:** Visual Studio Code
+- **Version Control:** Git
+- **Repository Hosting:** GitHub
 
 ## 💻 Requirements
 
-* Java Development Kit (JDK)
-* Visual Studio Code (optional)
-* Java extensions for VS Code (optional)
+- Java Development Kit (JDK)
+- Visual Studio Code (optional)
+- Java extensions for VS Code (optional)
 
 ## 🚀 How to Run
 
@@ -78,7 +83,7 @@ cd Java-basics
 For example:
 
 ```bash
-javac j31.java
+javac j40.java
 ```
 
 ### 4. Run the Program
@@ -93,31 +98,33 @@ java Main
 
 Through these programs, I am practising:
 
-* Java syntax and fundamentals
-* Variables and data types
-* Conditional statements and loops
-* Arrays and String manipulation
-* Searching and sorting algorithms
-* Methods and constructors
-* Classes and Objects
-* Inheritance
-* Method Overloading and Overriding
-* Compile-time and Runtime Polymorphism
-* Problem-solving and logical thinking
+- Java syntax and fundamentals
+- Variables and data types
+- Conditional statements and loops
+- Arrays and String manipulation
+- Searching and sorting algorithms
+- Methods and constructors
+- Classes and Objects
+- Inheritance
+- Method Overloading and Overriding
+- Encapsulation and Abstraction
+- Interfaces
+- Static Variables and Methods
+- Problem-solving and logical thinking
 
 ## 📈 Future Learning Goals
 
 I plan to explore more Java concepts, including:
 
-* Encapsulation and Abstraction
-* Interfaces
-* Abstract Classes
-* Access Modifiers
-* Static and Final Keywords
-* Exception Handling
-* Collections Framework
-* Multithreading
-* Data Structures and Algorithms (DSA)
+- Access Modifiers
+- Static and Final Keywords
+- Exception Handling
+- Collections Framework
+- Multithreading
+- File Handling
+- Data Structures and Algorithms (DSA)
+- JDBC and Database Connectivity
+- Java Backend Development
 
 ## 👨‍💻 About This Repository
 
