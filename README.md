@@ -50,6 +50,11 @@ I'm learning Java step by step and regularly adding new programs as I explore di
 | 38 | Interface Implementation | Interfaces and Abstraction |
 | 39 | Constructor Overloading | Multiple Constructors |
 | 40 | Static Variables and Methods | Static Keyword |
+| 41 | Final Keyword in Java | Final Variables, Methods and Classes |
+| 42 | Access Modifiers in Java | Public, Private, Protected and Default |
+| 43 | Exception Handling Using Try-Catch | Exception Handling |
+| 44 | Try-Catch-Finally | Finally Block |
+| 45 | Custom Exception in Java | User-Defined Exceptions |
 
 ## 🛠️ Technologies Used
 
@@ -83,7 +88,7 @@ cd Java-basics
 For example:
 
 ```bash
-javac j40.java
+javac j45.java
 ```
 
 ### 4. Run the Program
@@ -105,26 +110,28 @@ Through these programs, I am practising:
 - Searching and sorting algorithms
 - Methods and constructors
 - Classes and Objects
-- Inheritance
-- Method Overloading and Overriding
+- Inheritance and Polymorphism
 - Encapsulation and Abstraction
 - Interfaces
-- Static Variables and Methods
+- Static and Final Keywords
+- Access Modifiers
+- Exception Handling
+- Custom Exceptions
 - Problem-solving and logical thinking
 
 ## 📈 Future Learning Goals
 
 I plan to explore more Java concepts, including:
 
-- Access Modifiers
-- Static and Final Keywords
-- Exception Handling
 - Collections Framework
-- Multithreading
 - File Handling
-- Data Structures and Algorithms (DSA)
+- Multithreading
+- Generics
+- Lambda Expressions
+- Stream API
 - JDBC and Database Connectivity
 - Java Backend Development
+- Data Structures and Algorithms (DSA)
 
 ## 👨‍💻 About This Repository
 
