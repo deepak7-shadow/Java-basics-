@@ -55,6 +55,11 @@ I'm learning Java step by step and regularly adding new programs as I explore di
 | 43 | Exception Handling Using Try-Catch | Exception Handling |
 | 44 | Try-Catch-Finally | Finally Block |
 | 45 | Custom Exception in Java | User-Defined Exceptions |
+| 46 | ArrayList in Java | Dynamic Arrays and Collections |
+| 47 | LinkedList in Java | Linked Lists and Collections |
+| 48 | HashSet in Java | Unique Elements and Sets |
+| 49 | HashMap in Java | Key-Value Pairs |
+| 50 | Iterator in Java | Collection Traversal |
 
 ## 🛠️ Technologies Used
 
@@ -88,7 +93,7 @@ cd Java-basics
 For example:
 
 ```bash
-javac j45.java
+javac j50.java
 ```
 
 ### 4. Run the Program
@@ -116,19 +121,20 @@ Through these programs, I am practising:
 - Static and Final Keywords
 - Access Modifiers
 - Exception Handling
-- Custom Exceptions
+- Java Collections Framework
+- ArrayList, LinkedList, HashSet and HashMap
+- Iterators and Collection Traversal
 - Problem-solving and logical thinking
 
 ## 📈 Future Learning Goals
 
 I plan to explore more Java concepts, including:
 
-- Collections Framework
-- File Handling
-- Multithreading
 - Generics
 - Lambda Expressions
 - Stream API
+- File Handling
+- Multithreading
 - JDBC and Database Connectivity
 - Java Backend Development
 - Data Structures and Algorithms (DSA)
