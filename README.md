@@ -60,6 +60,11 @@ I'm learning Java step by step and regularly adding new programs as I explore di
 | 48 | HashSet in Java | Unique Elements and Sets |
 | 49 | HashMap in Java | Key-Value Pairs |
 | 50 | Iterator in Java | Collection Traversal |
+| 51 | Generics in Java | Generic Classes and Type Safety |
+| 52 | Lambda Expressions in Java | Functional Interfaces |
+| 53 | File Handling – Create and Write | FileWriter and File Creation |
+| 54 | File Handling – Read a File | FileReader and BufferedReader |
+| 55 | Multithreading in Java | Threads and Concurrent Execution |
 
 ## 🛠️ Technologies Used
 
@@ -93,7 +98,7 @@ cd Java-basics
 For example:
 
 ```bash
-javac j50.java
+javac j55.java
 ```
 
 ### 4. Run the Program
@@ -103,6 +108,8 @@ java Main
 ```
 
 **Note:** Each program uses the class name `Main`. Compile and run one program at a time to avoid class-name conflicts.
+
+For Programs 53 and 54, run the write program first to create `notes.txt`, then run the read program.
 
 ## 🎯 Learning Objectives
 
@@ -124,19 +131,22 @@ Through these programs, I am practising:
 - Java Collections Framework
 - ArrayList, LinkedList, HashSet and HashMap
 - Iterators and Collection Traversal
+- Generics and Lambda Expressions
+- File Handling
+- Multithreading
 - Problem-solving and logical thinking
 
 ## 📈 Future Learning Goals
 
 I plan to explore more Java concepts, including:
 
-- Generics
-- Lambda Expressions
+- Advanced Collections Framework
 - Stream API
-- File Handling
-- Multithreading
+- Advanced File Handling
+- Synchronization and Thread Communication
 - JDBC and Database Connectivity
 - Java Backend Development
+- Spring Boot
 - Data Structures and Algorithms (DSA)
 
 ## 👨‍💻 About This Repository
