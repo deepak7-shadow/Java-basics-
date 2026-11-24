@@ -65,6 +65,11 @@ I'm learning Java step by step and regularly adding new programs as I explore di
 | 53 | File Handling – Create and Write | FileWriter and File Creation |
 | 54 | File Handling – Read a File | FileReader and BufferedReader |
 | 55 | Multithreading in Java | Threads and Concurrent Execution |
+| 56 | Stream API – Filter Elements | Filtering Data |
+| 57 | Stream API – Map and Transform | Data Transformation |
+| 58 | Sorting Using Comparator | Custom Sorting |
+| 59 | File Handling – Append Data | FileWriter Append Mode |
+| 60 | Thread Synchronization | Shared Resource Protection |
 
 ## 🛠️ Technologies Used
 
@@ -98,7 +103,7 @@ cd Java-basics
 For example:
 
 ```bash
-javac j55.java
+javac j60.java
 ```
 
 ### 4. Run the Program
@@ -110,6 +115,8 @@ java Main
 **Note:** Each program uses the class name `Main`. Compile and run one program at a time to avoid class-name conflicts.
 
 For Programs 53 and 54, run the write program first to create `notes.txt`, then run the read program.
+
+Programs 59 and 60 can be executed independently. Program 59 appends data to `notes.txt`.
 
 ## 🎯 Learning Objectives
 
@@ -133,7 +140,9 @@ Through these programs, I am practising:
 - Iterators and Collection Traversal
 - Generics and Lambda Expressions
 - File Handling
-- Multithreading
+- Java Stream API
+- Comparator and Custom Sorting
+- Multithreading and Synchronization
 - Problem-solving and logical thinking
 
 ## 📈 Future Learning Goals
@@ -141,12 +150,12 @@ Through these programs, I am practising:
 I plan to explore more Java concepts, including:
 
 - Advanced Collections Framework
-- Stream API
-- Advanced File Handling
+- Stream API Advanced Operations
 - Synchronization and Thread Communication
 - JDBC and Database Connectivity
 - Java Backend Development
 - Spring Boot
+- REST APIs
 - Data Structures and Algorithms (DSA)
 
 ## 👨‍💻 About This Repository
